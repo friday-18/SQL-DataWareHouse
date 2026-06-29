@@ -32,8 +32,6 @@ This project involves:
 
 ---
 
----
-
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
@@ -89,6 +87,4 @@ data-warehouse-project/
 ```
 
 
-
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-lds.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+Special thanks to Data with Baraa - Baraa Khatib Salkini
